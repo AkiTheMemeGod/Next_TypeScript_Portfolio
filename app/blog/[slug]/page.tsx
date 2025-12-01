@@ -1,0 +1,6 @@
+// ... existing code ...
+export default function BlogPostPage() {
+  // This page should render a single post by slug, not the admin editor.
+  // Replace the admin UI with a reader view.
+}
+// ... existing code ...
